@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.2</version>
-    
-    <url>https://github.com/wal-97/MyProgramUpdates/releases/latest/download/setup.exe</url>
-    
-    <changelog>https://github.com/wal-97/MyProgramUpdates/releases/tag/v1.0.2</changelog>
-    
-    <mandatory>false</mandatory>
+    <version>1.0.2</version>
+    <url>https://github.com/wal-97/MyProgramUpdates/releases/download/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB/setup.exe</url>
+    <changelog></changelog>
 </item>
