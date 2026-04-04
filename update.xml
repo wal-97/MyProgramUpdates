@@ -1,5 +1,7 @@
 <item>
     <version>1.1.5.0</version>
-    <url>https://github.com/wal-97/MyProgramUpdates/releases/download/v2/MyProgramSetup.msi</url>
+    <url>
+        https://github.com/wal-97/MyProgramUpdates/releases/download/v2/MyProgramSetup.msi
+    </url>
     <changelog>تم تحديث النظام إلى الإصدار المستقر 1.1.0 وحل مشاكل الاتصال.</changelog>
 </item>
