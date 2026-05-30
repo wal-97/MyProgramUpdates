@@ -1,5 +1,7 @@
+<?xml version="1.1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.0</version>
-    <url>https://raw.githubusercontent.com/wal-97/MyProgramUpdates/refs/heads/main/updateArchive.xml</url>
-    <changelog>تم تحديث النظام الى اصدار 1.0.0 بنجاح وتم حل المشاكل السابقة</changelog>
+  <version>1.1.0</version>
+  <url>https://github.com/wal-97/MyProgramUpdates/releases/latest/download/Setup.exe</url>
+  <changelog>https://github.com/wal-97/MyProgramUpdates/releases</changelog>
+  <mandatory>false</mandatory>
 </item>
